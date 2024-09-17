@@ -1,7 +1,7 @@
 # profile
 🧑‍💻 I'm a Software Engineering
 
-📖 I study Mechatronics Engineering at ITESM
+📖 I study Mechatronics Engineering
 
 🌱 I’m currently learning Spatial computing and AI
 
